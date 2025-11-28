@@ -1110,7 +1110,7 @@ declare namespace $ {
 }
 
 declare namespace $ {
-    const $mol_theme: Record<"focus" | "image" | "line" | "text" | "back" | "hover" | "card" | "current" | "special" | "control" | "shade" | "field" | "spirit", $mol_style_func<"var", unknown>>;
+    const $mol_theme: Record<"image" | "line" | "text" | "focus" | "back" | "hover" | "card" | "current" | "special" | "control" | "shade" | "field" | "spirit", $mol_style_func<"var", unknown>>;
 }
 
 declare namespace $ {
@@ -1120,7 +1120,7 @@ declare namespace $ {
 }
 
 declare namespace $ {
-    let $mol_gap: Record<"blur" | "text" | "page" | "block" | "space" | "round", $mol_style_func<"var", unknown>>;
+    let $mol_gap: Record<"text" | "blur" | "page" | "block" | "space" | "round", $mol_style_func<"var", unknown>>;
 }
 
 declare namespace $ {
