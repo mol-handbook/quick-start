@@ -140,7 +140,6 @@
     "$mol_type_keys"
   ],
   "dependencies": {
-    "internal": "*",
     "jsdom": "*"
   }
 }
