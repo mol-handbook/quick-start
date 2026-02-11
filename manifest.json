@@ -1,0 +1,10 @@
+{
+	"name": "my_hello",
+	"short_name": "my_hello",
+	"description": "",
+	"id": "my_hello",
+	"start_url": ".",
+	"display": "standalone",
+	"background_color": "#000000",
+	"theme_color": "#000000"
+}
